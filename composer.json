@@ -1,0 +1,11 @@
+{
+    "name": "weckx/php-reference-builder",
+    "description": "Tool to build PHP reference files (containing only docs and class methods/definitions)",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Felipe Weckx",
+            "email": "felipe@weckx.net"
+        }
+    ]
+}
